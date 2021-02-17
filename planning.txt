@@ -1,0 +1,8 @@
+Planning :
+
+- 17/02 : description du projet
+- 26/02 : base de données avec échantillon de test
+- 01/03 : back-end
+- 03/03 : pages -> accueil, lire une actu, par catégorie
+- 05/03 : pages -> login, contact, recherche, ajouter article, modifier article
+- 08/03 : newsletter
