@@ -8,14 +8,14 @@ Equipe :
 - Vincent Thiblet, membre officiel de la Police de la Pensée
 
 Fonctionnalités :
-- utilisateur :
+1/ utilisateur :
 - créer un compte / se connecter
 - consulter les actualités : vue générale, par catégorie, par actu
 - recherche d'actus
 - contacter la rédaction
 - s'abonner à la newsletter
 - commenter une actu
-- rédacteur :
+2/ rédacteur :
 - créer un compte / se connecter
 - ajouter / modifier une actu
 - gérer les commentaires des actus
